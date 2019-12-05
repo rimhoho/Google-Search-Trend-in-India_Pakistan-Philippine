@@ -119,8 +119,8 @@ def keywords_contents(driver, container):
             "imgSize" : "medium",
             "searchType" : "image",
             "filetype" : "png",
-            "cx" : "001842575000215983116:kinu75kosuy",
-            "key" : "AIzaSyDpg6bq6O6aQOl_Dpfd2RmAbQGPmM2qgGM"
+            "cx" : "<enter your cx>",
+            "key" : "<enter your key>""
             }
 
             response = requests.get('https://www.googleapis.com/customsearch/v1', params = params, stream=True)
