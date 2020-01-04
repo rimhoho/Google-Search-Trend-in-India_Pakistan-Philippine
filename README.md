@@ -7,7 +7,7 @@ Google is the most commonly used search engine in the world across all platforms
 The report tried to capture the global trends, however, Global dataset in Google trends does not support China and three Higher internet usage countries in Asia don’t use Google as a primary search engine (Internet Stats & Facts for 2019). Due to these reasons, the report decided to rather look up the regions that have a lower broadband penetration rate. The lower broadband penetration rate will be a great indicator to find out a less compatible market for the search engine, so it will lead to get more prominent results by using the Google search dataset to see those region’s overall trends.
 
 
-### Methodology: 
+### [Methodology](https://github.com/rimhoho/Google-Search-Trend-in-India_Pakistan-Philippine/blob/master/Clustering%20Data%20of%20Inia%2C%20Pakistan%20and%20Philippine%20in%20Google%20Trend%20.ipynb)
   * Choosing data `India, Pakistan, Philippine`
   * Collecting data `Selenium`
   * Cleaning data `Pandas and Regular Expression`
