@@ -1,5 +1,6 @@
 Trend in India, Pakistan and Philippine from Google Search Keywords
 ==================================================================
+![Google Trend Logo](GoogleTrend_Logo.png)
 
 ### Introduction
 Google is the most commonly used search engine in the world across all platforms, “with more than 5.4 billion searches each day and 78,881 searches in 1 second" (Google Search Statistics). Google Trend, also, offers an well-structured information within the limit of 1 - 30 Categories. There are top 10 popular keywords per each category, and lists on each year by each country from 2001 until now. The initial trends per each country are expected to see and capture each historical interests or big events over time.
