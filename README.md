@@ -22,3 +22,7 @@ The report tried to capture the global trends, however, Global dataset in Google
   * Sports keyword is a key to describe these three countries’ hobbies and interests that have been played the same major sport event for a long time.
 
   * Pilippine had already been interested in lots of different types of cultures, India has been gradually increased with a variety of topics in their interests, however, Pakistan still stick with their existing topics.
+
+
+### Conclusion
+The hypothesis of the report was finding any changes in trends in each region over time and capturing similarities or differences between three countries over time. Yes, India and Pakistan have a common understanding and culturally bound - both love playing or watching sports games, and like various movies, actors, and actresses in each other’s film. The only difference between these two countries were India has more diversity interests with education or news, Pakistan kept their interests in sports and celebrities. So if anyone interests to promote their services on three countries, India and Pakistan would be an almost the same target audience with these their interests. Philippine, however, has been already got interests abroad since 2014, It might have multiple sources to track the international trends so be aware of their market industries first.
